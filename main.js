@@ -4,7 +4,7 @@ blog({
   title: "Deno Markdown Visual Guide",
   author: "jessireedev",
   links: [
-    { title: "GitHub", url: "https://github.com/jessireedev" },
+    { title: "GitHub", url: "https://github.com/jessireedev/deno-markdown" },
   ],
   background: "#fff",
   middlewares: [],
